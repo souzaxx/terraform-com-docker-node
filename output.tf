@@ -1,3 +1,6 @@
 output "address" {
-  value = "${aws_instance.web.public_ip}"
+  value = <<README
+  ${aws_instance.web.public_ip}:3030
+
+  README
 }
