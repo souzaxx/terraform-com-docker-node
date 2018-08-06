@@ -21,5 +21,7 @@ terraform apply
 
 # Fontes
 https://github.com/wardviaene/terraform-course
+
 https://github.com/terraform-providers/terraform-provider-aws
+
 https://github.com/b00giZm/docker-compose-nodejs-examples
