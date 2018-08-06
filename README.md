@@ -8,6 +8,7 @@ Instale [Terraform](http://www.terraform.io/downloads.html), [Packer](https://ww
 
 ## Criando a imagem com o packer
 ```
+cd packer
 packer build packer.json
 ```
 
